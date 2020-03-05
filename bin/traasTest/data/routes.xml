@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+
+<routes>
+	<route id="r1" edges="gneE2 gneE3"/>
+	<route edges="gneE1" color="yellow" id="route_0"/>
+    <!-- <vehicle id="vehicle_0" type="vType_0" depart="0.00" route="route_0"/> -->
+	<flow id="tram" type="vType_0" route="route_0" number="7" vehsPerHour="300" />
+</routes>
